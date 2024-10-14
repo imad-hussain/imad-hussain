@@ -25,11 +25,8 @@ I'm a Computer Science and Engineering graduate from North East University (Clas
 ## 📫 Connect With Me
 - **Portfolio**: [imadhussain.netlify.app](https://imadhussain.netlify.app)
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/md-imad-hussain)
-- **GitHub**: [GitHub Profile](https://github.com/yourprofile)
+- **GitHub**: [GitHub Profile](https://github.com/imad-hussain)
 - **Facebook**: [Facebook Profile](https://web.facebook.com/imad.hussain.1217)
 - **WhatsApp**: [WhatsApp Contact](https://wa.me/+8801642866032)
 
 I'm open to collaboration and professional opportunities in web development and software engineering. Let’s connect!
-```
-
-This version focuses more on your professional experience and skills. Let me know if this suits your needs or if you'd like further adjustments!
